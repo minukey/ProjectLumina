@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.sikattbi.projectlumina;
+package com.sikattbi.adventures;
 
 import com.google.android.vending.expansion.downloader.impl.DownloaderService;
 
@@ -61,6 +61,6 @@ public class OBBDownloaderService extends DownloaderService {
      */
     @Override
     public String getAlarmReceiverClassName() {
-        return com.sikattbi.projectlumina.AlarmReceiver.class.getName();
+        return com.sikattbi.adventures.AlarmReceiver.class.getName();
     }
 }

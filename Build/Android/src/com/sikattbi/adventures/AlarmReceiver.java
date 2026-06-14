@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.sikattbi.projectlumina;
+package com.sikattbi.adventures;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 
