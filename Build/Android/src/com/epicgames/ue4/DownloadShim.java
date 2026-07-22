@@ -1,10 +1,10 @@
 package com.epicgames.ue4;
 
-import com.sikattbi.projectlumina.OBBDownloaderService;
-import com.sikattbi.projectlumina.DownloaderActivity;
+import com.sikattbi.adventures.OBBDownloaderService;
+import com.sikattbi.adventures.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.sikattbi.projectlumina.OBBData;
+import com.sikattbi.adventures.OBBData;
 
 
 public class DownloadShim
