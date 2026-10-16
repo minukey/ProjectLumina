@@ -105,7 +105,7 @@ This repository contains the data and project files of the in-development game S
 
 ## Build requirements
 - [Unreal Engine 4.27](https://www.unrealengine.com/)
-- Android Studio SDK & NDK
+- Android SDK & NDK
   - NDK version 21.4.7075529 
 - [Visual Studio 2019](https://visualstudio.microsoft.com/vs/older-downloads/)
   - Desktop development with C++  
