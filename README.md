@@ -1,5 +1,8 @@
 
-![Picture](/ReadmeImages/TitleLogo.png)
+<p align="center">
+  <img src="/ReadmeImages/TitleLogo.png">
+  <br>
+</p>
 
 # SIKAT Adventures 
 
@@ -7,6 +10,7 @@ This repository contains the data and project files of the in-development game S
 
 “SIKAT Adventure” is an educational simulation game designed to help players learn and understand the process of building, managing, and growing a startup business through interactive way.
 
+<br>
 
 ## Game Features
    1. Story Play
@@ -17,6 +21,8 @@ This repository contains the data and project files of the in-development game S
   <br>
   Story Play Chapter Selection Screen
 </p>
+
+<br>
    
 
 
@@ -32,7 +38,7 @@ This repository contains the data and project files of the in-development game S
     </td>
   </tr>
 </table>
-
+<br>
 
    2. Main Gameplay
    -   The game presents the main gameplay through series of different questions type, these questions include trivia and information about start-ups and entrepreneurships. Your main goal is to gain an amount of money as much as you can by answering questions quickly.
@@ -70,7 +76,7 @@ This repository contains the data and project files of the in-development game S
     </td>
   </tr>
 </table>
-
+<br>
 
 3. QuickPlay
 -   An Icebreaker type gameplay where you can select through different Startup Phases categories to play quickly the series of questions on selected category. Attempts can be recorded which can be used as a practice and studying material.
@@ -86,7 +92,7 @@ This repository contains the data and project files of the in-development game S
     </td>
   </tr>
 </table>
-
+<br>
 
 
 
