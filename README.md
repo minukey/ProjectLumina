@@ -15,8 +15,9 @@ This repository contains the data and project files of the in-development game S
 | Platform | Supported Versions                                                                                |
 |---------|---------------------------------------------------------------------------------------------------|
 | Windows | 10 and 11 above  |
-| Android    | API 19 above |
 | Mac    | To be considered |
+| Android    | API 19 above |
+| iOS    | To be considered |
 | Linux    | To be considered |
 
 
@@ -102,6 +103,16 @@ This repository contains the data and project files of the in-development game S
 </table>
 <br>
 
+## Build requirements
+- [Unreal Engine 4.27](https://www.unrealengine.com/)
+- Android Studio SDK & NDK
+  - NDK version 21.4.7075529 
+- [Visual Studio 2019](https://visualstudio.microsoft.com/vs/older-downloads/)
+  - Desktop development with C++  
+  - MSVC v142 - VS 2019 C++ x64/x86 build tools
+  - Windows 10 & 11 SDK  
+
+<br>
 
 
 
@@ -109,3 +120,4 @@ This repository contains the data and project files of the in-development game S
 # Credits
 - [BPSU SIKAT Technology Business Incubator](https://www.facebook.com/BPSUSIKATTBI) : The game project is created for.
 - [Unreal Engine](https://www.unrealengine.com/) : Game Engine used.
+- [Itch.io](https://itch.io/) : Other Assets used.
