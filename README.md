@@ -10,7 +10,15 @@ This repository contains the data and project files of the in-development game S
 
 “SIKAT Adventure” is an educational simulation game designed to help players learn and understand the process of building, managing, and growing a startup business through interactive way.
 
-<br>
+## Supported Platforms
+
+| Platform | Supported Versions                                                                                |
+|---------|---------------------------------------------------------------------------------------------------|
+| Windows | 10 and 11 above  |
+| Android    | API 19 above |
+| Mac    | To be considered |
+| Linux    | To be considered |
+
 
 ## Game Features
    1. Story Play
