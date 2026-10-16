@@ -86,7 +86,7 @@ This repository contains the data and project files of the in-development game S
 </table>
 <br>
 
-3. QuickPlay
+3. Quick Play
 -   An Icebreaker type gameplay where you can select through different Startup Phases categories to play quickly the series of questions on selected category. Attempts can be recorded which can be used as a practice and studying material.
 <table>
   <tr>
