@@ -41,7 +41,7 @@ This repository contains the data and project files of the in-development game S
 <br>
 
    2. Main Gameplay
-   -   The game presents the main gameplay through series of different questions type, these questions include trivia and information about start-ups and entrepreneurships. Your main goal is to gain an amount of money as much as you can by answering questions quickly.
+   -   The game presents the main gameplay through series of different questions type, these questions include trivia and information about start-ups and entrepreneurships. Your main goal is to gain an amount of money as much as you can by answering these questions quickly.
 <table>
   <tr>
     <td align="center">
