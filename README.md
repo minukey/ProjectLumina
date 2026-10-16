@@ -9,8 +9,10 @@ This repository contains the data and project files of the in-development game S
 
 
 ## Game Features
-1. Story Interaction
-   
+   1. Story Interaction
+   - Play through an interactive story on a journey of growing and learning a startup business with decision-based events.
+
+
    <table>
     <tr>
       <td>
@@ -22,7 +24,10 @@ This repository contains the data and project files of the in-development game S
     </tr>
 </table>
 
-2. Gameplay Questions
+
+   2. 
+
+
 
 
 
