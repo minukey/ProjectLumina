@@ -9,7 +9,8 @@ This repository contains the data and project files of the in-development game S
 
 
 ## Game Features
-1. Story Interaction - 
+1. Story Interaction
+   
    <table>
     <tr>
       <td>
