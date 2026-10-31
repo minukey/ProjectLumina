@@ -8,7 +8,7 @@
 
 This repository contains the source data and project files of the proof of concept game SIKAT Adventures (Project Lumina), built in Unreal Engine 4
 
-“SIKAT Adventure” is an educational simulation game designed to help players learn and understand the process of building, managing, and growing a startup business through interactive way.
+“SIKAT Adventure” is an educational simulation game designed to help players learn and understand the phases of startup through interactive way.
 
 ## Supported Platforms
 
